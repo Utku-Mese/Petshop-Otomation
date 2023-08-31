@@ -1,6 +1,9 @@
 ﻿# Petshop-Otomation
 A petshop tracking application written in c#
 
+# YouTube Video
+
+https://youtu.be/H2N8nYuJIKQ?si=B1iCPSvI1SXicG_u
 # ScreenShots
 
 ![1 png](https://user-images.githubusercontent.com/94257756/223525391-93cc8436-86d3-4aec-8def-faf57e8e15c5.jpg)
